@@ -95,6 +95,7 @@ print("Size of X_test: ",len(X_test))
 ![ouput](IMG-6.png)
 ### x and y 
 ![ouput](IMG-7.png)
+
 ![ouput](IMG-8.png)
 ### Training Data
 ![ouput](IMG-9.png)
